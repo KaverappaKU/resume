@@ -1,6 +1,6 @@
 # Kaverappa K U
 
-![alt text](profile-photo.jpg)
+![alt text](readme-image.jpg)
 
 An aspiring developer who loves to code and learn new things.
 
