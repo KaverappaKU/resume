@@ -1,6 +1,7 @@
 # Kaverappa K U
 
 ![alt text](profile-photo.jpg)
+
 An aspiring developer who loves to code and learn new things.
 
 ## About
@@ -20,9 +21,9 @@ Nokia, Bangalore(2018-2023)
 
 ## Projects
 
-| title    | URL                                             | Technology |
-| -------- | ----------------------------------------------- | ---------- |
-| HTTP5114 | [title] https://github.com/KaverappaKU/http5114 | HTML       |
+| title    | URL                                     | Technology |
+| -------- | --------------------------------------- | ---------- |
+| HTTP5114 | https://github.com/KaverappaKU/http5114 | HTML       |
 
 ## Education
 
@@ -39,5 +40,5 @@ Email: caakash357@gmail.com
 
 ## Social Media
 
-[title] https://www.linkedin.com/in/kaverappaku/
-[title] https://github.com/KaverappaKU
+LinkedIn https://www.linkedin.com/in/kaverappaku/
+GitHub https://github.com/KaverappaKU
